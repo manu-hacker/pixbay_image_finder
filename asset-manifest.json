@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pixbay_image_finder/static/css/main.e6c13ad2.css",
+    "main.js": "/pixbay_image_finder/static/js/main.9a5ca839.js",
+    "static/js/787.1b1e332d.chunk.js": "/pixbay_image_finder/static/js/787.1b1e332d.chunk.js",
+    "index.html": "/pixbay_image_finder/index.html",
+    "main.e6c13ad2.css.map": "/pixbay_image_finder/static/css/main.e6c13ad2.css.map",
+    "main.9a5ca839.js.map": "/pixbay_image_finder/static/js/main.9a5ca839.js.map",
+    "787.1b1e332d.chunk.js.map": "/pixbay_image_finder/static/js/787.1b1e332d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9a5ca839.js"
+  ]
+}
